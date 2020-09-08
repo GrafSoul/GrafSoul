@@ -6,7 +6,7 @@
 
 - 🤔  I'm looking for help in finding interesting projects
 - 💬 Ask me about anything, i will try my best
-- 📫 How to reach me: <a href="https://twitter.com/GrafSoul">Twitter</a>, <a href="https://www.linkedin.com/in/dmitriy-zatulovskiy-0469331a1/">Linkedin</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/dmitriy-zatulovskiy-0469331a1/">Linkedin</a>
 - 😄 Pronouns: He / His / Him
 - ⚡ Fun fact: I am a designer with 20 years of experience, but suddenly I got interested in programming
 
