@@ -6,7 +6,7 @@
 
 - 📀 My Web Apps: <a href="https://github.com/GrafSoul/webrtc-video-chat" target="_blank">VID.OK</a>, <a href="https://github.com/GrafSoul/webrtc-paint-chat" target="_blank">PAINT.OK</a>, <a href="https://github.com/GrafSoul/react-speech-synthesis" target="_blank">READ.OK</a>, <a href="https://github.com/GrafSoul/react-speech-to-text" target="_blank">DICT.OK</a>, <a href="https://github.com/GrafSoul/react-socket-io-chat" target="_blank">SAY.OK</a>
 
-- 💿 My Windows desktop Apps: <a href="https://github.com/GrafSoul/radio-online" target="_blank">Radion</a>, <a href="https://github.com/GrafSoul/voice-clock" target="_blank">Voice Clock</a>, <a href="https://github.com/GrafSoul/talker" target="_blank">Talker</a>, <a href="https://github.com/GrafSoul/tempus" target="_blank">Tempus</a>, <a href="https://github.com/GrafSoul/wrapps" target="_blank">WrappS App</a>.
+- 💿 My Windows Desktop Apps: <a href="https://github.com/GrafSoul/radio-online" target="_blank">Radion</a>, <a href="https://github.com/GrafSoul/voice-clock" target="_blank">Voice Clock</a>, <a href="https://github.com/GrafSoul/talker" target="_blank">Talker</a>, <a href="https://github.com/GrafSoul/tempus" target="_blank">Tempus</a>, <a href="https://github.com/GrafSoul/wrapps" target="_blank">WrappS App</a>.
 
 - 🤔  I'm looking for help in finding interesting projects.
 - 💬 Ask me about anything, i will try my best.
