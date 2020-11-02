@@ -4,12 +4,12 @@
 - 🌱 I am currently studying HTML Media and Canvas, and I am studying React Native in more depth.
 - 👯 I am looking to work together on projects based on React and React Native.
 
-- 📀 My Web Apps: 
---  <a href="https://github.com/GrafSoul/webrtc-video-chat" target="_blank">VID.OK</a> - simple example of using WebRTC technology to create a video chat, 
--- <a href="https://github.com/GrafSoul/webrtc-paint-chat" target="_blank">PAINT.OK</a> - example of an app for drawing and communicating together, 
--- <a href="https://github.com/GrafSoul/react-speech-synthesis" target="_blank">READ.OK</a> - simple app for speech synthesis using React.js and Speech Synthesis API, 
--- <a href="https://github.com/GrafSoul/react-speech-to-text" target="_blank">DICT.OK</a> - simple app for Speech to Text using React.js and Web Speech API, 
--- <a href="https://github.com/GrafSoul/react-socket-io-chat" target="_blank">SAY.OK</a> - example of building a Chat using React.js and Socket.io
+- 📀 My Web Apps:  
+- <a href="https://github.com/GrafSoul/webrtc-video-chat" target="_blank">VID.OK</a> - simple example of using WebRTC technology to create a video chat,   
+- <a href="https://github.com/GrafSoul/webrtc-paint-chat" target="_blank">PAINT.OK</a> - example of an app for drawing and communicating together,   
+- <a href="https://github.com/GrafSoul/react-speech-synthesis" target="_blank">READ.OK</a> - simple app for speech synthesis using React.js and Speech Synthesis API,   
+- <a href="https://github.com/GrafSoul/react-speech-to-text" target="_blank">DICT.OK</a> - simple app for Speech to Text using React.js and Web Speech API,   
+- <a href="https://github.com/GrafSoul/react-socket-io-chat" target="_blank">SAY.OK</a> - example of building a Chat using React.js and Socket.io  
 
 - 💿 My Windows Desktop Apps: <a href="https://github.com/GrafSoul/radio-online" target="_blank">Radion</a>, <a href="https://github.com/GrafSoul/voice-clock" target="_blank">Voice Clock</a>, <a href="https://github.com/GrafSoul/talker" target="_blank">Talker</a>, <a href="https://github.com/GrafSoul/tempus" target="_blank">Tempus</a>, <a href="https://github.com/GrafSoul/wrapps" target="_blank">WrappS App</a>.
 
