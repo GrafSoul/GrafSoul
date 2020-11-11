@@ -10,6 +10,9 @@
  > <a href="https://github.com/GrafSoul/react-speech-synthesis" target="_blank">READ.OK</a> - simple app for speech synthesis using React.js and Speech Synthesis API,   
  > <a href="https://github.com/GrafSoul/react-speech-to-text" target="_blank">DICT.OK</a> - simple app for Speech to Text using React.js and Web Speech API,   
  > <a href="https://github.com/GrafSoul/react-socket-io-chat" target="_blank">SAY.OK</a> - example of building a Chat using React.js and Socket.io  
+ 
+- 🌐 My Chrome App:
+ > <a href="https://github.com/GrafSoul/dictantor-chrome-app" target="_blank">Dictantor</a> - Chrome App for Speech to Text. 
 
 - 💿 My Windows Desktop Apps: 
  > <a href="https://github.com/GrafSoul/radio-online" target="_blank">Radion</a> - applications for listening to the broadcast of radio stations.,   
