@@ -16,7 +16,7 @@
 
 - 💿 My Windows Desktop Apps: 
  > <a href="https://github.com/GrafSoul/radio-online" target="_blank">Radion</a> - applications for listening to the broadcast of radio stations,  
- > <a href="https://github.com/GrafSoul/wrapps" target="_blank">WrappS</a> - shell for using various audio and video services, 
+ > <a href="https://github.com/GrafSoul/wrapps" target="_blank">WrappS</a> - shell for using various audio and video services,   
  > <a href="https://github.com/GrafSoul/voice-clock" target="_blank">Voice Clock</a> - voice clock app for voice notification of the current time,   
  > <a href="https://github.com/GrafSoul/talker" target="_blank">Talker</a> - applications for reading text with a voice engine,   
  > <a href="https://github.com/GrafSoul/tempus" target="_blank">Tempus</a> - a simple application to work with time.  
