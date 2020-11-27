@@ -1,8 +1,8 @@
 ### Hi there 👋 I am Dmitriy
 
-- 🔭 I am currently working on projects based on technology React.js, Electron.js, Socket.io, WebRTC, Web Audio API and Web Speech API.
-- 🌱 I am currently studying HTML Media and Canvas, and I am studying React Native in more depth.
-- 👯 I am looking to work together on projects based on React and React Native.
+- 🔭 I am currently working on projects based on technology React.js, Electron.js, Web Video, Audio API.
+- 🌱 I am currently studying GraphQL,JWT, MongoDB and I am studying React Native in more depth.
+- 👯 I am looking to work together on projects based on React.js GraphQL ,JWT, MongoDB, Electron.js Express.js, Socket.io, WebRTC and React Native.
 
 - 📀 My Web Apps:  
  > <a href="https://github.com/GrafSoul/webrtc-video-chat" target="_blank">VID.OK</a> - simple example of using WebRTC technology to create a video chat,   
