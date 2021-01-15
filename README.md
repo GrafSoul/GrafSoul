@@ -23,6 +23,8 @@
  > <a href="https://github.com/GrafSoul/voice-clock" target="_blank">Voice Clock</a> - voice clock app for voice notification of the current time,   
  > <a href="https://github.com/GrafSoul/talker" target="_blank">Talker</a> - applications for reading text with a voice engine,   
  > <a href="https://github.com/GrafSoul/tempus" target="_blank">Tempus</a> - a simple application to work with time.  
+ 
+ - 📜 My Сertificates - <a href="https://github.com/GrafSoul/certificates" target="_blank">List of certificates</a>
 
 - 🤔  I'm looking for help in finding interesting projects.
 - 💬 Ask me about anything, i will try my best.
