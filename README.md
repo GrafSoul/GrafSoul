@@ -28,6 +28,8 @@ MongoDB, Electron.js Express.js, Socket.io, WebRTC and React Native.
  > <a href="https://github.com/GrafSoul/tempus" target="_blank">Tempus</a> - a simple application to work with time.  
  
  - 📜 My Сertificates - <a href="https://github.com/GrafSoul/certificates" target="_blank">List of certificates</a>
+ 
+ ![Github Overview](https://github-readme-stats.vercel.app/api?username=grafsoul)
 
 - 🤔  I'm looking for help in finding interesting projects.
 - 💬 Ask me about anything, i will try my best.
