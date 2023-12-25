@@ -1,8 +1,8 @@
 ### Hi there 👋 I am Dmitriy
 
 - 🔭 I am currently working on projects based on technology -     
- Next.js, GraphQL, Wordpress GraphQL API.  
-- 🌱 I am currently studying Dart and Flutter in more depth.
+ Next.js, GraphQL, Wordpress GraphQL API, Dart and Flutter.  
+- 🌱 I am currently studying Three.js for VR/AR in more depth.
 - 👯 I am looking to work together on projects based on React.js, Next.js, GraphQL, JWT,     
 MongoDB, Electron.js Express.js, Socket.io, WebRTC, Flutter and React Native.
 
